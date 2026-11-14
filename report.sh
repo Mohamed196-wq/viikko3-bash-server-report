@@ -73,6 +73,7 @@ opened after reboot, and automatic updates continued.</p>
 I changed the time zone to Europe/Helsinki.
 The report now displays Finnish local time (EET).</p>
 
+<p><a href="https://github.com/Mohamed196-wq/viikko3-bash-server-report">View my Week 3 code on GitHub</a></p>
 </main>
 </body>
 </html>
